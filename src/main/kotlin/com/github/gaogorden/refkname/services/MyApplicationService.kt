@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.gaogorden.refkname.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.gaogorden.refkname.MyBundle
 
 class MyApplicationService {
 
